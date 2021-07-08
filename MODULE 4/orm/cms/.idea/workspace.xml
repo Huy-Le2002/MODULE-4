@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b6c55a74-420d-4967-89ed-ce6a5b4eb90a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../DataBinding_Form/login/src/java/controllers/UserControllers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataBinding_Form/login/src/java/dao/UserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataBinding_Form/login/src/java/model/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataBinding_Form/login/src/java/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataBinding_Form/login/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataBinding_Form/login/src/main/webapp/WEB-INF/views/error.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataBinding_Form/login/src/main/webapp/WEB-INF/views/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataBinding_Form/login/src/main/webapp/WEB-INF/views/user.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringMVC/cms/src/main/java/cg/wbd/grandemonstration/controller/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringMVC/cms/src/main/webapp/WEB-INF/app-conf.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringMVC/currency-conversion/src/java/controllers/CalcControllers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringMVC/currency-conversion/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringMVC/currency-conversion/src/main/webapp/WEB-INF/views/calc.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringMVC/currency-conversion/src/main/webapp/WEB-INF/views/result.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringMVC/spring_greeting/src/main/java/controllers/GreetingControllers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringMVC/spring_greeting/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringMVC/spring_greeting/src/main/webapp/WEB-INF/views/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringMVC/translate/src/java/controllers/TransControllers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringMVC/translate/src/java/models/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringMVC/translate/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringMVC/translate/src/main/webapp/WEB-INF/views/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo_lvn/src/java/controllers/HelloControllers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo_lvn/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo_lvn/src/main/webapp/WEB-INF/views/hello.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CaseStudyModule2" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CaseStudyModule2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MODULE 1/-Huy-Chuong-_BTSuKienChuot" beforeDir="false" afterPath="$PROJECT_DIR$/../../../MODULE 1/-Huy-Chuong-_BTSuKienChuot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MODULE 1/CS-module1" beforeDir="false" afterPath="$PROJECT_DIR$/../../../MODULE 1/CS-module1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MODULE 1/Function" beforeDir="false" afterPath="$PROJECT_DIR$/../../../MODULE 1/Function" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MODULE 1/controll-car" beforeDir="false" afterPath="$PROJECT_DIR$/../../../MODULE 1/controll-car" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MODULE 1/htmlw1" beforeDir="false" afterPath="$PROJECT_DIR$/../../../MODULE 1/htmlw1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MODULE 1/js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../MODULE 1/js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MODULE 1/vonglap" beforeDir="false" afterPath="$PROJECT_DIR$/../../../MODULE 1/vonglap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MODULE 3/JDBC/src/main/java/com/example/JDBC/dao/UserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../MODULE 3/JDBC/src/main/java/com/example/JDBC/dao/UserDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MODULE 3/JDBC/target/JDBC-1.0-SNAPSHOT/WEB-INF/classes/com/example/JDBC/dao/UserDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../MODULE 3/JDBC/target/JDBC-1.0-SNAPSHOT/WEB-INF/classes/com/example/JDBC/dao/UserDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MODULE 3/JDBC/target/classes/com/example/JDBC/dao/UserDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../MODULE 3/JDBC/target/classes/com/example/JDBC/dao/UserDAO.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1u6SVIZgzyU0it6mEm8gKkAHniX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../customer-management" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6c55a74-420d-4967-89ed-ce6a5b4eb90a" name="Default Changelist" comment="" />
+      <created>1623984569557</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623984569557</updated>
+      <workItem from="1623984571072" duration="4283000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
